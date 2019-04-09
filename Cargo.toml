@@ -1,0 +1,7 @@
+[package]
+name = "rustify-tests"
+version = "0.1.0"
+authors = ["Neil Moore <dar13.dev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
